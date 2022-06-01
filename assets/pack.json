@@ -1,0 +1,76 @@
+{
+    "preload": {
+      "files": [
+        {
+          "type": "image",
+          "key": "Plane",
+          "url": "./assets/images/Plane.png"
+        },
+        {
+            "type": "image",
+            "key": "Missile",
+            "url": "./assets/images/Missile.png"
+        },
+        {
+            "type": "image",
+            "key": "Cloud-1",
+            "url": "./assets/images/Cloud-1.png"
+        },
+        {
+            "type": "image",
+            "key": "Cloud-2",
+            "url": "./assets/images/Cloud-2.png"
+        },
+        {
+            "type": "image",
+            "key": "particle",
+            "url": "./assets/images/particle.png"
+        },
+        {
+            "type": "image",
+            "key": "Cloud-2",
+            "url": "./assets/images/Cloud-2.png"
+        },
+        {
+            "type": "image",
+            "key": "particle",
+            "url": "./assets/images/particle.png"
+        },
+        {
+            "type": "image",
+            "key": "wing-left",
+            "url": "./assets/images/wing-left.png"
+        },
+        {
+            "type": "image",
+            "key": "wing-right",
+            "url": "./assets/images/wing-right.png"
+        },
+        {
+            "type": "image",
+            "key": "fire",
+            "url": "./assets/images/fire.png"
+        },
+        {
+            "type": "audio",
+            "key": "missile-expose",
+            "url": "./assets/audio/Bomb-expose.wav"
+        },
+        {
+            "type": "image",
+            "key": "clouds-white",
+            "url": "./assets/images/clouds-white.png"
+        },
+        {
+            "type": "image",
+            "key": "starfield",
+            "url": "./assets/images/starfield.png"
+        },
+        {
+            "type": "image",
+            "key": "playbtn",
+            "url": "./assets/images/playbtn.png"
+        }
+      ]
+    }
+}
